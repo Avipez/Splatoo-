@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
-import header from "./components/header.js"
+import Pageheader from './components/Pageheader';
+import "./styles/main.css"
 
 function App() {
   return (
-    <header />
+    <Pageheader />
   );
 }
 

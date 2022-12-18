@@ -1,8 +1,9 @@
-* {
-    font-family: sans-serif;
-    color: white;
-}
 
-.ul {
-    justify-content: space-between;
+
+.main-list {
+    margin-top: 5%;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
 }
