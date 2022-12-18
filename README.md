@@ -1,3 +1,9 @@
+# Aqui inicia mi proyecto Splatooñ
+
+Aqui podras encontrar a los jugadores de habla hispana mas aguerridos en busca de hacer equipo con otros jugadores para competir en combates caóticos en Splatoon 3!
+
+No te dejes freir!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
