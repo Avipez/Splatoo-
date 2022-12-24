@@ -1,0 +1,44 @@
+.Information-player {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.Information-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: auto;
+    background-image: url("../imgs/patron-naranja.png");
+    border-radius: 50px;
+}
+
+.Player-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 350px;
+}
+
+.Player-form input {
+    width: 100%;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+    margin: 5px 0;
+}
+
+.Publish-button {
+    color: white;
+    height: 50px;
+    width: 100%;
+    margin: 20px 0 30px;
+    padding: 0 20px;
+    cursor: pointer;
+    border: none;
+    border-radius: 30px;
+    text-decoration: none;
+    background-color: rgb(6, 24, 124);
+}
